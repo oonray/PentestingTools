@@ -1,0 +1,12 @@
+[
+{
+  "directory": "Z:/RTO-maldev/RTO/09.Task/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1426~1.288\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\alexa\\.conan\\data\\cryptopp\\8.2.0\\bincrafters\\stable\\package\\e0a02d496bbb652b6295152dfce0d3937acc0b56\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc   /MDd /Zi /Ob0 /Od /RTC1  -std:c++latest /FoCMakeFiles\\dropper.dir\\main.cpp.obj /FdCMakeFiles\\dropper.dir\\ /FS -c Z:\\RTO-maldev\\RTO\\09.Task\\main.cpp",
+  "file": "Z:/RTO-maldev/RTO/09.Task/main.cpp"
+},
+{
+  "directory": "Z:/RTO-maldev/RTO/09.Task/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1426~1.288\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -IC:\\Users\\alexa\\.conan\\data\\cryptopp\\8.2.0\\bincrafters\\stable\\package\\e0a02d496bbb652b6295152dfce0d3937acc0b56\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc   /MDd /Zi /Ob0 /Od /RTC1  -std:c++latest /FoCMakeFiles\\encrypter.dir\\encrypter.cpp.obj /FdCMakeFiles\\encrypter.dir\\ /FS -c Z:\\RTO-maldev\\RTO\\09.Task\\encrypter.cpp",
+  "file": "Z:/RTO-maldev/RTO/09.Task/encrypter.cpp"
+}
+]
